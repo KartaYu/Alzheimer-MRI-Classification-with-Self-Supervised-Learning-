@@ -1,6 +1,9 @@
-# Alzheimer MRI Classification with Self Supervised-Learning-
+# Alzheimer MRI Classification with Self Supervised Learning
 ### Brief Description
 - A course project for Deep learning and biomedical applications
+- Programming Language : python
+- Deep Learning Framework : pytorch
+- Dev tool : Jupyter Notebook
 ### Background Motivation
 - With the rapid increase in the elderly population, dementia has become an increasingly serious global public health problem. In Taiwan, 1 in every 13 people over the age of 65 suffers from dementia, with the most common type being Alzheimer's disease. Early diagnosis and treatment are the main measures for delaying the onset of dementia. Therefore, the application of AI in medical image recognition has become the main research target
 
