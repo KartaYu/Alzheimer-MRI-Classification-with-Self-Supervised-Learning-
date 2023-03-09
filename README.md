@@ -59,7 +59,7 @@
 ![image](https://github.com/KartaYu/Alzheimer-MRI-Classification-with-Self-Supervised-Learning-/blob/main/pic/Visualization%20of%20heatmaps%20of%20ResNet50%20with%20SimCLR.png)
 
 ### Conclusions
-- This project uses two learning methods, supervised learning, and self-supervised learning, to train a ResNet50 model for Alzheimer's disease MRI recognition. During model training, 1%, 10%, 20%, 50%, and 100% of the training data were used. In the testing phase, it was found that the accuracy of SimCLR was higher than that of ResNet50, indicating that the SimCLR method (self-supervised learning) performs well even with fewer data. Furthermore, **self-supervised pretraining uses unlabeled data, which can improve the labeling efficiency of medical imaging, a task that is typically time-consuming and laborious.**
+- This project uses two learning methods, supervised learning, and self-supervised learning, to train a ResNet50 model for Alzheimer's disease MRI recognition. During model training, 1%, 10%, 20%, 50%, and 100% of the training data were used. In the testing phase, it was found that the accuracy of SimCLR was higher than that of ResNet50, indicating that the SimCLR method (self-supervised learning) performs well even with fewer data. Furthermore, **self-supervised pretraining uses unlabeled data, which can improve the utilization efficiency of medical images, a task that is typically time-consuming and laborious.**
 ### Model weight 
 - [ResNet50(SL)](https://tinyurl.com/ymjx39n7)
 - [ResNet50(SSL)](https://tinyurl.com/mtvkppwr)
