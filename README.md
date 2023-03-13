@@ -8,7 +8,7 @@
 - With the rapid increase in the elderly population, dementia has become an increasingly serious global public health problem. In Taiwan, 1 in every 13 people over the age of 65 suffers from dementia, with the most common type being Alzheimer's disease. Early diagnosis and treatment are the main measures for delaying the onset of dementia. Therefore, the application of AI in medical image recognition has become the main research target
 
 ### Purpose
-- Although supervised learning methods can achieve high accuracy rates, they require a large amount of data sets and high-quality annotated images. Obtaining medical images can be difficult. Self-supervised learning methods can achieve high accuracy rates with fewer data. Therefore, **this project chooses the SimCLR training ResNet50 model in self-supervised learning to compare the accuracy of supervised learning and unsupervised learning in MRI image classification.**
+- Although supervised learning methods can achieve high accuracy rates, they require a large amount of data sets and high-quality annotated images, but obtaining labeled medical images can be difficult. Besides, Self-supervised learning methods can achieve high accuracy rates with fewer data. Therefore, **this project chooses the SimCLR training ResNet50 model in self-supervised learning to compare the accuracy of supervised learning and unsupervised learning in MRI image classification.**
 
 ### Data info
 - Modality : MRI
